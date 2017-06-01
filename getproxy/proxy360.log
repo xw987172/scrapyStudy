@@ -1,0 +1,2 @@
+2017-05-26 08:58:35 [scrapy.utils.log] INFO: Scrapy 1.3.3 started (bot: getproxy)
+2017-05-26 08:58:35 [scrapy.utils.log] INFO: Overridden settings: {'NEWSPIDER_MODULE': 'getproxy.spiders', 'ROBOTSTXT_OBEY': True, 'SPIDER_MODULES': ['getproxy.spiders'], 'LOG_FILE': './proxy360.log', 'BOT_NAME': 'getproxy'}
